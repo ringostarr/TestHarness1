@@ -1,0 +1,9 @@
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\ITest\bin\Debug\ITest.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\ITest\bin\Debug\ITest.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\ITest\obj\Debug\ITest.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\ITest\obj\Debug\ITest.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\ITest\bin\Debug\ITest.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\ITest\bin\Debug\ITest.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\ITest\obj\Debug\ITest.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\ITest\obj\Debug\ITest.pdb

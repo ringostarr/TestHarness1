@@ -1,0 +1,16 @@
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\RepoServer\bin\Debug\RepoServer.exe.config
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\RepoServer\bin\Debug\RepoServer.exe
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\RepoServer\bin\Debug\RepoServer.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\RepoServer\bin\Debug\RepoService.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\RepoServer\bin\Debug\RepoService.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\RepoServer\obj\Debug\RepoServer.csprojResolveAssemblyReference.cache
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\RepoServer\obj\Debug\RepoServer.exe
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\RepoServer\obj\Debug\RepoServer.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\RepoServer\bin\Debug\RepoServer.exe.config
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\RepoServer\bin\Debug\RepoServer.exe
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\RepoServer\bin\Debug\RepoServer.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\RepoServer\bin\Debug\RepoService.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\RepoServer\bin\Debug\RepoService.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\RepoServer\obj\Debug\RepoServer.csprojResolveAssemblyReference.cache
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\RepoServer\obj\Debug\RepoServer.exe
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\RepoServer\obj\Debug\RepoServer.pdb

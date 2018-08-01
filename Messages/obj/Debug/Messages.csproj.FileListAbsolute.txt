@@ -1,0 +1,11 @@
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\Messages\bin\Debug\Messages.dll.config
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\Messages\bin\Debug\Messages.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\Messages\bin\Debug\Messages.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\Messages\obj\Debug\Messages.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\Messages\obj\Debug\Messages.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\Messages\bin\Debug\Messages.dll.config
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\Messages\bin\Debug\Messages.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\Messages\bin\Debug\Messages.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\Messages\obj\Debug\Messages.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\Messages\obj\Debug\Messages.pdb

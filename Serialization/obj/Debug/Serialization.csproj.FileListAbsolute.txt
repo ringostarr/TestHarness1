@@ -1,0 +1,9 @@
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\Serialization\bin\Debug\Serialization.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\Serialization\obj\Debug\Serialization.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\Serialization\bin\Debug\Serialization.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\Serialization\obj\Debug\Serialization.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\Serialization\obj\Debug\Serialization.pdb

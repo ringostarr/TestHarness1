@@ -1,0 +1,3 @@
+
+Run Compile.bat as administrator
+Run run.bat as administrator

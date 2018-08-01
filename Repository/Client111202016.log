@@ -1,0 +1,8 @@
+
+
+ Log:11/20/2016 8:50:58 PM
+============================
+Test1 : Always returns true , Test is always Successfull
+Test2 : Always returns false , Test will always fail
+Test3 : Always returns throw exception System.ArgumentException: THIS IS AN EXCEPTION
+   at CommChannel.Testexec.test3() in C:\Users\Ringo\documents\visual studio 2015\Projects\Client1\TestExec\TestExec.cs:line 75

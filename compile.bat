@@ -1,0 +1,1 @@
+devenv Client1.sln /rebuild debug

@@ -1,0 +1,5 @@
+C:\Users\Ringo\documents\visual studio 2015\Projects\Client1\XMLparser\bin\Debug\XMLparser.dll
+C:\Users\Ringo\documents\visual studio 2015\Projects\Client1\XMLparser\bin\Debug\XMLparser.pdb
+C:\Users\Ringo\documents\visual studio 2015\Projects\Client1\XMLparser\obj\Debug\XMLparser.dll
+C:\Users\Ringo\documents\visual studio 2015\Projects\Client1\XMLparser\obj\Debug\XMLparser.pdb
+C:\Users\Ringo\documents\visual studio 2015\Projects\Client1\XMLparser\obj\Debug\XMLparser.csprojResolveAssemblyReference.cache

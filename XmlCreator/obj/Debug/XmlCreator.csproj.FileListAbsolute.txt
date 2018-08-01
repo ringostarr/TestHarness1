@@ -1,0 +1,14 @@
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\XmlCreator\bin\Debug\XmlCreator.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\XmlCreator\bin\Debug\XmlCreator.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\XmlCreator\bin\Debug\Serialization.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\XmlCreator\bin\Debug\Serialization.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\XmlCreator\obj\Debug\XmlCreator.csprojResolveAssemblyReference.cache
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\XmlCreator\obj\Debug\XmlCreator.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\Client1\XmlCreator\obj\Debug\XmlCreator.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\XmlCreator\bin\Debug\XmlCreator.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\XmlCreator\bin\Debug\XmlCreator.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\XmlCreator\bin\Debug\Serialization.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\XmlCreator\bin\Debug\Serialization.pdb
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\XmlCreator\obj\Debug\XmlCreator.csprojResolveAssemblyReference.cache
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\XmlCreator\obj\Debug\XmlCreator.dll
+C:\Users\Ringo\Documents\Visual Studio 2015\Projects\TestHarnessProject4\XmlCreator\obj\Debug\XmlCreator.pdb
